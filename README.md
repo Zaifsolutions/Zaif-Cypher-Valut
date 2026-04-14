@@ -19,15 +19,13 @@
 
 # 𝐇𝐔𝐙𝐀𝐈𝐅𝐀 𝐌𝐀𝐇𝐌𝐎𝐎𝐃  
 
-<span style="color:#ff3b3b; font-weight:bold;">
+<span style="color:red; font-weight:bold;">
 Certified Ethical Hacker | Web Penetration Tester | Bug Bounty Hunter | Cybersecurity Researcher | Full Stack Web Developer | Security Analyst | Vulnerability Assessment Expert | Network Security Specialist
 </span>
 
 <br><br>
 
-I am a **Certified Ethical Hacker** with 3+ years of experience in cybersecurity and web development.  
-I specialize in **penetration testing, vulnerability assessment**, and building **secure web applications**.  
-
+I am a **Certified Ethical Hacker** with 3+ years of experience in cybersecurity and web development. I specialize in **penetration testing, vulnerability assessment**, and building **secure web applications**.  
 My goal is to deliver **reliable, secure, and high-performance digital solutions**.
 
 </td>

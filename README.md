@@ -20,7 +20,7 @@
 # 𝐇𝐔𝐙𝐀𝐈𝐅𝐀 𝐌𝐀𝐇𝐌𝐎𝐎𝐃  
 
 <span style="color:#ff3b3b; font-weight:bold;">
-Certified Ethical Hacker | Web Penetration Tester | Bug Bounty Hunter | Cybersecurity Researcher | Full Stack Developer
+Certified Ethical Hacker | Web Penetration Tester | Bug Bounty Hunter | Cybersecurity Researcher | Full Stack Web Developer | Security Analyst | Vulnerability Assessment Expert | Network Security Specialist
 </span>
 
 <br><br>
